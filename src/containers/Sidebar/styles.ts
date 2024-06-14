@@ -14,6 +14,7 @@ export const BotaoTema = styled.button`
   font-weight: bold;
   background-color: #282a35;
   cursor: pointer;
+  margin-top: 16px;
 `
 
 export const SidebarContainer = styled.div`
